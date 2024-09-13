@@ -73,5 +73,5 @@ If all steps are followed correctly, you will get a contract address where it is
 - **Verifier Result:** true
 
 ## Authors
-- Kaduluri Harshith - [saijagankotni@gmail.com](mailto:saijagankotni@gmail.com)
+- Sai Jagan Kotni - [saijagankotni@gmail.com](mailto:saijagankotni@gmail.com)
 ```
